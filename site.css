@@ -1,0 +1,14 @@
+body{
+    background: #f4ebcf;
+    padding: 50px;
+}
+a:link {
+  color: #755a15;
+}
+
+h1,
+h2,
+h3 {
+    color: #755a15;
+    font-family: sans-serif;
+}
