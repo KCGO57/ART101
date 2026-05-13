@@ -1,7 +1,12 @@
 body {
-    background: rgb(226, 227, 167)
+    background: rgb(238, 216, 142)
 }
 
-odd:link {
+
+.odd:link {
   color: #755a15;
+}
+
+.even:link {
+  color: #c41818;
 }
