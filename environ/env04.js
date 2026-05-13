@@ -37,11 +37,10 @@ $("#People").click(function (){
     $("#output").html(message);
 });
 let music;
-function playMusic(song){
+function playSong(song){
     //let music;
     if(music){
         music.pause();
-        //audio.currentTime = 0;
     }
     if(song == 'autumn'){
         music = new Audio('Autumn.mp3');
